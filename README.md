@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**AntenorZapata/AntenorZapata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey you! 👋
 
-Here are some ideas to get you started:
+My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Computer Science at **Anhembi Morumbi**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning: 
+
+- **MERN Stack**: MongoDB - Express - React - NodeJS
+-  HTML, CSS, Python, MySql.
+
+
+### 📫 How to reach me:
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antenorzpt/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nokszap/)
+
+ ### ⚡ Random facts about me:
+- I have a master's degree in Journalism 👨‍🎓
+- I've been a professional musician for fifteen years 🎸
+- I have a [band](https://www.instagram.com/projetozis/) with my wife 👨🎵👩
+- I'm very persistent. I watched Interview with the Vampire more than 43 times and I don't even like the movie. 🧛
