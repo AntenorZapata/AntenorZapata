@@ -19,5 +19,5 @@ My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Comput
 - I have a [band](https://www.instagram.com/projetozis/) with my wife 👨🎵👩
 - I'm very persistent. I watched Interview with the Vampire more than 43 times and I don't even like the movie. 🧛
 ---
-![Atenor GitHub stats](https://github-readme-stats.vercel.app/api?username=AntenorZapata&show_icons=true&theme=merko)
+![Atenor GitHub stats](https://github-readme-stats.vercel.app/api?username=AntenorZapata&show_icons=true&theme=radical)
 
