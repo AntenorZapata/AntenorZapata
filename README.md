@@ -6,7 +6,7 @@ My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Comput
 ### 🌱 I’m currently learning: 
 
 
-- **MERN Stack**: [![image](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)] - Express - React - NodeJS
+- **MERN Stack**: MongoDB- Express - React - NodeJS
 -  HTML, CSS, Python, MySql.
 
 
