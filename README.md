@@ -7,7 +7,7 @@ My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Comput
 
 
 - **MERN Stack**: MongoDB - Express - React - NodeJS
--  Python
+-  Python/Django
 -  SQL
 -  JAVA
 
