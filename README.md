@@ -21,6 +21,10 @@ My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Comput
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt='nodejs' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt='mysql' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt='kotlin' width="40" height="40" style="max-width:100%"></img>
+<img src="
+https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt='bootstrap' width="40" height="40" style="max-width:100%"></img>
+
+
 
 
 
