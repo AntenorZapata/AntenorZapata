@@ -5,7 +5,7 @@ My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Comput
 
 ### 🌱 I’m currently learning: 
 
--  Redux
+-  More and more about React/Redux
 -  JAVA/ SPRING
 -  Kotlin
 
