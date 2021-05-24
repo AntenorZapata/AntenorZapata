@@ -9,7 +9,7 @@ My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Comput
 -  How to build REST-API's with Java / Spring Boot 🔥
 -  Data structures and algorithms with JS 🧠
 
-###  My hobbies:
+### 🤹 My hobbies:
 
 - Books and movies
 - Playing the guitar 
