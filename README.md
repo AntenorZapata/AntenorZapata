@@ -1,7 +1,7 @@
 
 # Hey you! 👋
 
-My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Computer Science at **Anhembi Morumbi**.
+I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science at **Anhembi Morumbi**.
 
 ### 💻 I’m currently learning: 
 
