@@ -13,7 +13,7 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 
 - Books and movies
 - Playing the guitar 
-- Try new technologies: at the moment I'm playing with Angular and TypeScript
+- Try new technologies: at the moment I'm playing with Angular and TypeScript. So much fun! ✅
 
 ### 🔧 Languages and Tools 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='javascript' width="40" height="40" style="max-width:100%"></img>
