@@ -3,12 +3,17 @@
 
 My name is Antenor Zapata. I'm a Web Development student at **Trybe** and Computer Science at **Anhembi Morumbi**.
 
-### 🌱 I’m currently learning: 
+### 💻 I’m currently learning: 
 
--  More and more about React/Redux
--  Data structures and algorithms with JS
--  JAVA/ SPRING
+-  More and more about React/Redux 💙
+-  How to build REST-API's with Java / Spring Boot 🔥
+-  Data structures and algorithms with JS 🧠
 
+###  My hobbies:
+
+- Books and movies
+- Playing the guitar 
+- Try new technologies: at the moment I'm playing with Angular and TypeScript
 
 ### 🔧 Languages and Tools 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='javascript' width="40" height="40" style="max-width:100%"></img>
