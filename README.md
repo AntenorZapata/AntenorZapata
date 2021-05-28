@@ -34,7 +34,7 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
   
  ### ⚡ Random facts about me:
 - I have a master's degree in Journalism 👨‍🎓
-- I've been a professional musician for fifteen years 🎸
+- I've been a professional musician for ten years 🎸
 - I had a [band](https://www.instagram.com/projetozis/) with my wife 👨🎵👩
 ---
 ![Atenor GitHub stats](https://github-readme-stats.vercel.app/api?username=AntenorZapata&show_icons=true&theme=radical)
