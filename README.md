@@ -10,24 +10,29 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 -  TypeScript 💙
 -  Data structures and algorithms with JS 🧠
 
+### 👨‍💻 All of my projects are available at
+- www.antenorzapata.com
+
+### 🔧 Languages and Tools 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='javascript' width="40" height="40" style="max-width:100%"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='typescript' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt='react' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt='redux' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt='nodejs' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt='git' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt='mysql' width="40" height="40" style="max-width:100%"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt='linux' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt='html' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt='css' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt='bootstrap' width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt='python' width="40" height="40" style="max-width:100%"></img>
+
+
+
 ### 🤹 Hobbies:
 
 - Books, movies and TV series
 - Playing the guitar 
-
-### 🔧 Languages and Tools 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='javascript' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt='html' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt='css' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt='bootstrap' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt='react' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt='redux' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt='python' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt='nodejs' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt='mysql' width="40" height="40" style="max-width:100%"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt='git' width="40" height="40" style="max-width:100%"></img>
-
-
 
 ### 📫 How to reach me:
   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antenorzpt/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nokszap/)
