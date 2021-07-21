@@ -14,12 +14,12 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 
 ### Over the last six months, I've done a series of small projects in Html, Css, JavaScript as part of my training on the Trybe course.
 
-- https://url.gratis/eFHCPI
-- https://url.gratis/lg6NOB
-- https://url.gratis/w4D8Rv
-- https://url.gratis/P87xng
-- https://url.gratis/2DcMBt
-- https://url.gratis/9g5TRq
+- https://url.gratis/eFHCPI - Playground Functions
+- https://url.gratis/lg6NOB - Todo List
+- https://url.gratis/w4D8Rv - Zoo Functions
+- https://url.gratis/P87xng - Shopping Cart
+- https://url.gratis/2DcMBt - Unit Tests
+- https://url.gratis/9g5TRq - Jest Assíncrono e Mocking
 
 
 
