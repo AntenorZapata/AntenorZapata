@@ -12,6 +12,17 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 ### 👨‍💻 All of my projects are available at
 - www.antenorzapata.com
 
+#### Over the last six months, I've done a series of small projects in Html, Css, JavaScript as part of my training on the Trybe course.
+
+- https://url.gratis/eFHCPI
+- https://url.gratis/lg6NOB
+- https://url.gratis/w4D8Rv
+- https://url.gratis/P87xng
+- https://url.gratis/2DcMBt
+- https://url.gratis/9g5TRq
+
+
+
 ### 🔧 Languages and Tools 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='javascript' width="40" height="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='typescript' width="40" height="40" style="max-width:100%"></img>
