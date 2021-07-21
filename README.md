@@ -12,7 +12,7 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 ### 👨‍💻 All of my projects are available at
 - www.antenorzapata.com
 
-#### Over the last six months, I've done a series of small projects in Html, Css, JavaScript and React as part of my training on the Trybe course.
+#### Over the last six months, I've done a series of small projects as part of my training on the Trybe course.
  - https://github.com/AntenorZapata/shopping_cart - FrontEnd Store
 - https://url.gratis/lg6NOB - Todo List
 - https://url.gratis/w4D8Rv - Zoo Functions
