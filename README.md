@@ -9,9 +9,6 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 -  How to build REST-API's with Node / Express 🔥
 -  Data structures and algorithms with JS 🧠
 
-### 👨‍💻 All of my projects are available at
-- www.antenorzapata.com
-
 #### Over the last six months, I've done a series of small projects as part of my training on the Trybe course.
  - https://github.com/AntenorZapata/shopping_cart - FrontEnd Store
  - https://is.gd/yQnn1c - SQL Challenges
@@ -22,6 +19,8 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 - https://url.gratis/9g5TRq - Jest Assíncrono e Mocking
 - https://url.gratis/eFHCPI - Playground Functions
 
+### 👨‍💻 My portfolio
+- www.antenorzapata.com
 
 
 ### 🔧 Languages and Tools 
