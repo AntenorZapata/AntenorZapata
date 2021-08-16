@@ -14,7 +14,7 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 
 
 #### Over the past six months, I've done several projects as part of my programming studies.
- [Projects Repo](https://github.com/AntenorZapata/Projects)  
+ - [Projects Repo](https://github.com/AntenorZapata/Projects)  
 
  
 ### 🔧 Languages and Tools 
