@@ -13,15 +13,9 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 - www.antenorzapata.com
 
 
-#### Over the last six months, I've done a series of small projects as part of my training on the Trybe course.
- [FrontEnd Store](https://github.com/AntenorZapata/shopping_cart)  
- [SQL - Challenges](https://is.gd/yQnn1c)  
- [Zoo Functions](https://url.gratis/w4D8Rv)  
- [Shopping Cart](https://url.gratis/P87xng) 
- [Unit Tests](https://url.gratis/2DcMBt)  
- [Jest Assíncrono e Mocking](https://url.gratis/9g5TRq)   
- [Todo List](https://url.gratis/lg6NOB)  
- [Playground Functions](https://url.gratis/eFHCPI) 
+#### Over the past six months, I've done several projects as part of my programming studies.
+ [Projects](https://github.com/AntenorZapata/Projects)  
+
  
 ### 🔧 Languages and Tools 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='javascript' width="40" height="40" style="max-width:100%"></img>
