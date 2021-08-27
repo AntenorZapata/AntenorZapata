@@ -13,7 +13,7 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 - www.antenorzapata.com
 
 
-#### Over the past seven months, I've done several projects as part of my programming studies.
+#### I've done several projects as part of my programming studies.
  - [Projects Repo](https://github.com/AntenorZapata/Projects)  
 
  
