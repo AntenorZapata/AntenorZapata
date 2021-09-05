@@ -9,8 +9,6 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 -  How to build REST-API's with Node / Express 🔥
 -  Data structures and algorithms with JS 🧠
 
-#### I've done several projects as part of my programming studies.
- - [Projects Repo](https://github.com/AntenorZapata/Projects)  
 
  
 ### 🔧 Languages and Tools 
