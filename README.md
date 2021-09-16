@@ -9,7 +9,6 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 -  How to build REST-API's with Node / Express 🔥
 -  Data structures and algorithms with JS 🧠
 
-
  
 ### 🔧 Languages and Tools 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='javascript' width="40" height="40" style="max-width:100%"></img>
@@ -18,6 +17,7 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt='redux' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt='nodejs' width="40" height="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt='mongo' width="40" height="40" style="max-width:100%"></img>
+<img src="https://camo.githubusercontent.com/7fb5feeea0d0487d85c750e2f82f265257a3ebda73d81d313e1d01e368cd5dec/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6a7774616c676f732f6c6f676f2e706e67" alt='jwt' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt='git' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt='mysql' width="40" height="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt='linux' width="40" height="40" style="max-width:100%"></img>
