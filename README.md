@@ -7,7 +7,7 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 
 -  More and more about React/Redux 💙
 -  How to build REST-API's with Node / Express 🔥
--  Playing with Java 😃
+-  OOP concepts with Java 😃
 -  and always trying to solve new challenges with JS 🧠   
 
  
