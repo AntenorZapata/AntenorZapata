@@ -16,6 +16,7 @@ Me chamo Antenor Zapata. Sou estudante de Desenvolvimento Web na **Trybe** e Ci√
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='typescript' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt='react' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt='redux' width="40" height="40" style="max-width:100%"></img>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt='java' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt='nodejs' width="40" height="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt='mongo' width="40" height="40" style="max-width:100%"></img>
 <img src="https://camo.githubusercontent.com/7fb5feeea0d0487d85c750e2f82f265257a3ebda73d81d313e1d01e368cd5dec/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6a7774616c676f732f6c6f676f2e706e67" alt='jwt' width="40" height="40" style="max-width:100%"></img>
