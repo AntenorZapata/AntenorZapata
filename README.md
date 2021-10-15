@@ -1,17 +1,17 @@
 
-# Hey you! 👋
+# E aí! 👋
 
-I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science at **Anhembi Morumbi**.
+Me chamo Antenor Zapata. Sou estudante de Desenvolvimento Web na **Trybe** e Ciência da Computação na **Anhembi Morumbi**.
 
-### 💻 I’m currently learning: 
+### 💻 No momento estou aprendendo: 
 
--  More and more about React/Redux 💙
--  How to build REST-API's with Node / Express 🔥
--  OOP concepts with Java 😃
--  and always trying to solve new challenges with JS 🧠   
+-  Mais e mais sobre React/Redux 💙
+-  Como construir REST-API's com Node / Express 🔥
+-  Conceitos de POO com Java 😃
+-  e sempre tentando resolver novos desafios com JS 🧠   
 
  
-### 🔧 Languages and Tools 
+### 🔧 Linguagens e Ferramentas
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt='javascript' width="40" height="40" style="max-width:100%"></img>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt='typescript' width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt='react' width="40" height="40" style="max-width:100%"></img>
@@ -31,15 +31,15 @@ I'm Antenor Zapata, a Web Development student at **Trybe** and Computer Science 
 
 ### 🤹 Hobbies:
 
-- Books, movies and TV series
-- Playing the guitar 
+- Livros, filmes e séries
+- Tocar guitarra (https://www.youtube.com/user/NoksNeto)
 
-### 📫 How to reach me:
-  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antenorzpt/) [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nokszap/)
+### 📫 Onde me encontrar?
+  [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antenorzpt/) 
   
- ### ⚡ Random facts about me:
-- I have a master's degree in Journalism 👨‍🎓
-- I had a [band](https://www.instagram.com/projetozis/) with my girlfriend 👨🎵👩
+ ### ⚡ Fatos aleatórios sobre mim:
+- Tenho Mestrado em Jornalismo 👨‍🎓
+- Sou músico há mais de 10 anos. Mais recentemente, tive uma [banda](https://www.youtube.com/watch?v=QvFh34XWHu0) com minha namorada. 👨🎵👩
 ---
 ![Atenor GitHub stats](https://github-readme-stats.vercel.app/api?username=AntenorZapata&show_icons=true&theme=radical)
 
