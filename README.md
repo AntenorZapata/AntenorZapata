@@ -5,7 +5,7 @@ Me chamo Antenor Zapata. Sou estudante de Desenvolvimento Web na **Trybe** e Ci�
 
 ### 💻 Atualmente, estou:
 
--  aprendendo mais e mais sobre React/Redux 💙
+-  aprendendo cada vez mais sobre React/Redux 💙
 -  me aprofundando na consotrução de REST-API's com Node / Express / MongoDB / MySQL 🔥 
 -  fascinado com Java e os conceitos de POO 😃
 -  sempre tentando resolver novos desafios com JS 🧠   
