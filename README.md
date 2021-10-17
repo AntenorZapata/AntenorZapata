@@ -40,7 +40,7 @@ Me chamo Antenor Zapata. Sou estudante de Desenvolvimento Web na **Trybe** e Ci�
   
  ### ⚡ Fatos aleatórios sobre mim:
 - Tenho Mestrado em Jornalismo 👨‍🎓
-- Sou músico há mais de 10 anos. Mais recentemente, tive uma [banda](https://www.youtube.com/watch?v=QvFh34XWHu0) com minha namorada. 👨🎵👩
+- Tive uma [banda](https://www.youtube.com/watch?v=QvFh34XWHu0) com minha namorada. 👨🎵👩
 ---
 ![Atenor GitHub stats](https://github-readme-stats.vercel.app/api?username=AntenorZapata&show_icons=true&theme=radical)
 
