@@ -33,7 +33,7 @@ Me chamo Antenor Zapata. Sou estudante de Desenvolvimento Web na **Trybe** e Ci�
 ### 🤹 Hobbies:
 
 - Livros, filmes e séries
-- Tocar [guitarra](https://www.youtube.com/user/NoksNeto)
+- [Tocar guitarra](https://www.youtube.com/user/NoksNeto)
 
 ### 📫 Onde me encontrar?
   [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antenorzpt/) 
