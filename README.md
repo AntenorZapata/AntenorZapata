@@ -44,3 +44,6 @@ Me chamo Antenor Zapata. Sou estudante de Desenvolvimento Web na **Trybe** e Ci√
 ---
 ![Atenor GitHub stats](https://github-readme-stats.vercel.app/api?username=AntenorZapata&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antenorzapata)](https://github.com/antenorzapata/github-readme-stats)
+
+
