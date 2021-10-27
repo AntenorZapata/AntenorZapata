@@ -5,7 +5,7 @@ Me chamo Antenor Zapata. Sou estudante de Desenvolvimento Web na **Trybe** e Ci�
 
 ### 💻 Atualmente, estou:
 
--  me aprofundando na consotrução de REST-API's com Node / Express / MongoDB / MySQL 🔥 
+-  me aprofundando na construção de REST-API's com Node / Express / MongoDB / MySQL 🔥 
 -  fascinado com Java e os conceitos de POO 😃
 -  e sempre tentando resolver novos desafios com JS 🧠   
 
