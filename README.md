@@ -1,12 +1,12 @@
 
 # E aí! 👋
 
-Me chamo Antenor Zapata. Sou estudante de Desenvolvimento Web na **Trybe** e Ciência da Computação na **Anhembi Morumbi**.
+Me chamo Antenor Zapata. Atuo como dev backend na Intelbras e sou estudante de Desenvolvimento Web na **Trybe** e Ciência da Computação na **Anhembi Morumbi**.
 
 ### 💻 Atualmente, estou:
 
--  me aprofundando na construção de REST-API's com Node / Express / TypeScript 🔥 
--  fascinado com os conceitos de POO e arquitetura limpa 😃
+-  explorando a construção de REST-API's com NestJS 🔥 
+-  fascinado com os conceitos de arquitetura limpa 😃
 -  e sempre tentando resolver novos desafios com JS 🧠   
 
  
