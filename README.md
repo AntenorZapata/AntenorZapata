@@ -1,7 +1,7 @@
 
 # E aí! 👋
 
-Me chamo Antenor Zapata. Atuo como dev na Intelbras, sou estudante de Desenvolvimento Web na **Trybe** e Ciência da Computação na **Anhembi Morumbi**.
+Me chamo Antenor Zapata. Atuo como dev backend na Intelbras e sou estudante de Ciência da Computação na **Anhembi Morumbi**.
 
 ### 💻 Atualmente, estou:
 
