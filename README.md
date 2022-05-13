@@ -1,7 +1,7 @@
 
 # E aí! 👋
 
-Me chamo Antenor Zapata. Atuo como dev back-end na Intelbras.
+Me chamo Antenor Zapata. Atuo como dev backend na Intelbras.
 
 ### 💻 Atualmente, estou:
 
