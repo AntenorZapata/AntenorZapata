@@ -6,7 +6,7 @@ Me chamo Antenor Zapata. Atuo como dev backend na Intelbras.
 ### 💻 Atualmente, estou:
 
 -  explorando o universo cloud com AWS 🔥 
--  fascinado com os conceitos de arquitetura limpa 😃
+-  fascinado com os conceitos de arquitetura de software 😃
 -  e sempre tentando resolver novos desafios com JS 🧠   
 
  
